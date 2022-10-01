@@ -1,14 +1,6 @@
-//
-//  main.cpp
-//  Problems_macOS
-//
-//  Created by Sung_1 on 2022/10/01.
-//
-
 #include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+using  namespace std;
+int main(){
+    cout<<"This is test file for github ^_^\n";
     return 0;
 }
